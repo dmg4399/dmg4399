@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dmg4399/dmg4399/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/dmg4399/dmg4399/output/github-snake-dark.svg" />
 </div>
 
 💪 正在学习:
