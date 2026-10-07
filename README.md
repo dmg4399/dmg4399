@@ -56,22 +56,40 @@ const me = {
 
 ## 精选项目
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/dmg4399/Shirone-Blog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dmg4399&repo=Shirone-Blog&hide_border=true&title_color=22d3ee&icon_color=0ea5e9&text_color=94a3b8&bg_color=0d1117&border_radius=14" />
-</a>
-<a href="https://github.com/dmg4399/PaperFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dmg4399&repo=PaperFlow&hide_border=true&title_color=22d3ee&icon_color=0ea5e9&text_color=94a3b8&bg_color=0d1117&border_radius=14" />
-</a>
-<a href="https://github.com/dmg4399/Firefly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dmg4399&repo=Firefly&hide_border=true&title_color=22d3ee&icon_color=0ea5e9&text_color=94a3b8&bg_color=0d1117&border_radius=14" />
-</a>
-<a href="https://github.com/dmg4399/codex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dmg4399&repo=codex&hide_border=true&title_color=22d3ee&icon_color=0ea5e9&text_color=94a3b8&bg_color=0d1117&border_radius=14" />
-</a>
+**Shirone-Blog** · `Astro` `TypeScript`
 
-</div>
+基于 Shirone 主题的个人博客（深度定制版），线上地址 [shirone-blog-steel.vercel.app](https://shirone-blog-steel.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**PaperFlow** · `AI` `LLM`（私有）
+
+面向组会、论文阅读和科研资料管理的 AI 助手：让信息高速运转，让任务高效运行
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Firefly** · `Astro` `Template`
+
+清新、美观的 Astro 博客主题模板，开箱即用的博客起手式
+
+</td>
+<td width="50%" valign="top">
+
+**codex** · `Python`
+
+适用于 Cursor / Continue.dev 的 DeepSeek OpenAI 兼容本地代理
+
+</td>
+</tr>
+</table>
 
 ## 贡献图贪吃蛇
 
