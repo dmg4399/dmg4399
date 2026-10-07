@@ -2,7 +2,9 @@
 
 欢迎来到 no01_80 的主页 😝
 
-<h3 align="center">非淡泊无以明志，非宁静无以致远。</h3>
+<p align="center">
+  <img src="./assets/motto.svg" width="640" alt="非淡泊无以明志，非宁静无以致远。" />
+</p>
 
 <div align="center">
   <img src="./assets/coding-male.png" width="100%" alt="男生戴着耳机在桌前编程" />
