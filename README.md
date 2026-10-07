@@ -1,18 +1,11 @@
-<img src="./assets/avatar.png" width="110" align="left" style="border-radius:50%;margin-right:18px;" />
-
 # 👋 Hello
-<span style="font-size:16px;color:#8b949e;">欢迎来到 no01_80 的主页 😝</span>
 
-<br clear="left" />
+欢迎来到 no01_80 的主页 😝
 
-<h1 align="center">
-  <a href="https://shirone-blog-steel.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&center=true&lines=%E5%85%88%E8%AE%A9%E5%AE%83%E8%B7%91%E8%B5%B7%E6%9D%A5%EF%BC%8C%E5%86%8D%E8%AE%A9%E5%AE%83%E5%A5%BD%E7%9C%8B%E3%80%82;Astro%20%C2%B7%20TypeScript%20%C2%B7%20AI%20Tooling" />
-  </a>
-</h1>
+<h3 align="center">非淡泊无以明志，非宁静无以致远。</h3>
 
 <div align="center">
-  <img src="./assets/coding.png" width="100%" />
+  <img src="./assets/coding-male.png" width="100%" alt="男生戴着耳机在桌前编程" />
 </div>
 
 <div align="center">
@@ -35,18 +28,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=flat-square&logo=rust&logoColor=white)
 
-🚀 正在折腾:
-
-&emsp;&emsp;
-![Astro](https://img.shields.io/badge/Shirone--Blog-%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98-22d3ee?style=flat-square)
-![PaperFlow](https://img.shields.io/badge/PaperFlow-%E7%A7%91%E7%A0%94%E5%8A%A9%E6%89%8B-0ea5e9?style=flat-square)
-![Local AI](https://img.shields.io/badge/DeepSeek-%E6%9C%AC%E5%9C%B0%E4%BB%A3%E7%90%86-4B8BBE?style=flat-square)
-
-🧠 计划学习:
-
-&emsp;&emsp;
-睡觉，以及把 `motto` 从“先让它跑起来”升级成“它也好看”
-
 🧰 常用的工具:
 
 &emsp;&emsp;
@@ -60,12 +41,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 <div align="center">
-  <img src="./assets/stack-banner.png" width="100%" />
-</div>
-
-<div align="center">
-
-<a href="https://github.com/dmg4399/Shirone-Blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dmg4399&repo=Shirone-Blog&hide_border=true&title_color=22d3ee&icon_color=0ea5e9&text_color=94a3b8&bg_color=0d1117&border_radius=14" /></a>
-<a href="https://github.com/dmg4399/Firefly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dmg4399&repo=Firefly&hide_border=true&title_color=22d3ee&icon_color=0ea5e9&text_color=94a3b8&bg_color=0d1117&border_radius=14" /></a>
-
+  <img src="./assets/stack-banner-solid.png" width="100%" alt="深色实底的编程技术图标横幅" />
 </div>
